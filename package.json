@@ -1,0 +1,22 @@
+{
+  "name": "dw2-aa2",
+  "version": "1.0.0",
+  "description": "Uma indústria de peças automotivas quer controlar melhor sua produção e estoque diário por meio de uma API REST.",
+  "homepage": "https://github.com/pedroprdgs/DW2-AA2#readme",
+  "bugs": {
+    "url": "https://github.com/pedroprdgs/DW2-AA2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroprdgs/DW2-AA2.git"
+  },
+  "type": "module",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}
